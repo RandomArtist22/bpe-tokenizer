@@ -1,0 +1,7 @@
+build/
+.cache/
+guides/
+data/corpus.txt
+.venv/
+__pycache__/
+*.bin
